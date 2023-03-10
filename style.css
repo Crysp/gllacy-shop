@@ -396,7 +396,7 @@ textarea.input {
   height: 16px;
   left: -10px;
   top: 10px;
-  background: url("/img/tooltip-arrow.png") no-repeat;
+  background: url("/gllacy-shop/img/tooltip-arrow.png") no-repeat;
 }
 
 .tooltip:hover .tooltip-text {
@@ -941,11 +941,11 @@ textarea.input {
 }
 
 .gift-raspberry {
-  background-image: url('/img/raspberry.png');
+  background-image: url('/gllacy-shop/img/raspberry.png');
 }
 
 .gift-marshmallow {
-  background-image: url('/img/marshmallow.png');
+  background-image: url('/gllacy-shop/img/marshmallow.png');
 }
 
 .section-with-title {
@@ -1032,7 +1032,7 @@ textarea.input {
 
 .features {
   padding: 24px;
-  background: url("/img/waffle.jpg") no-repeat;
+  background: url("/gllacy-shop/img/waffle.jpg") no-repeat;
   background-size: cover;
   border-radius: 16px;
 }
@@ -1069,7 +1069,7 @@ textarea.input {
   min-height: 224px;
   padding: 32px;
   border-radius: 16px;
-  background: #FFF url("/img/news.jpg") right no-repeat;
+  background: #FFF url("/gllacy-shop/img/news.jpg") right no-repeat;
 }
 
 .news-main {
@@ -1087,7 +1087,7 @@ textarea.input {
 .subscription {
   padding: 6px;
   border-radius: 16px;
-  background: url("/img/subscription.jpg");
+  background: url("/gllacy-shop/img/subscription.jpg");
 }
 
 .subscription-main {
@@ -1116,7 +1116,7 @@ textarea.input {
   justify-content: space-between;
   padding: 64px 64px 64px 100px;
   border-radius: 16px;
-  background: url("/img/delivery.jpg") no-repeat;
+  background: url("/gllacy-shop/img/delivery.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -1175,7 +1175,7 @@ textarea.input {
 .feedback {
   padding: 64px;
   border-radius: 16px;
-  background: url("/img/feedback.jpg") no-repeat;
+  background: url("/gllacy-shop/img/feedback.jpg") no-repeat;
   background-size: cover;
 }
 
