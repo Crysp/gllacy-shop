@@ -4,21 +4,21 @@
   font-family: Inter;
   font-style: normal;
   font-weight: 400;
-  src: url(/fonts/inter-400.woff2);
+  src: url(/gllacy-shop/fonts/inter-400.woff2);
 }
 
 @font-face {
   font-family: Inter;
   font-style: normal;
   font-weight: 700;
-  src: url(/fonts/inter-700.woff2);
+  src: url(/gllacy-shop/fonts/inter-700.woff2);
 }
 
 @font-face {
   font-family: Inter;
   font-style: normal;
   font-weight: 900;
-  src: url(/fonts/inter-900.woff2);
+  src: url(/gllacy-shop/fonts/inter-900.woff2);
 }
 
 body {
